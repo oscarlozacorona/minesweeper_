@@ -1,0 +1,13 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "A react minesweeper app",
+  "main": "index.js",
+  "repository": "https://github.com/oscarlozacorona/minesweeper_",
+  "author": "Oscar",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
